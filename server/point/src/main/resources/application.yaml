@@ -15,6 +15,7 @@ eureka:
 server:
   port: 8763
   #Ӧ������
+  #我们的歌
 spring:
   application:
     name: service-point

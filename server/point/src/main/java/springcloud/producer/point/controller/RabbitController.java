@@ -14,9 +14,9 @@ import springcloud.producer.point.producer.ProduceImpl;
 import java.util.HashMap;
 
 /**
- * @description: 测试rabbit
- * @author: qintingshuang
- * @date: 2019-08-04 21:06
+ * @description 测试rabbit
+ * @author qintingshuang
+ * @date 2019-08-04 21:06
  */
 @Slf4j
 @RestController

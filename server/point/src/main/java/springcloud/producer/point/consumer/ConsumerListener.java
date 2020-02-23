@@ -11,9 +11,9 @@ import springcloud.producer.point.model.Mail;
 import java.io.IOException;
 
 /**
- * @description:消费者
- * @author: qintingshuang
- * @date: 2019-08-04 20:40
+ * @description 消费者
+ * @author  qintingshuang
+ * @date  2019-08-04 20:40
  */
 @Slf4j
 @Component
